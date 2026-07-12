@@ -7,6 +7,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "netease-cloud-music-api": "^4.16.0"
+    "NeteaseCloudMusicApi": "^4.16.0"
   }
 }
