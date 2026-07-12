@@ -1,0 +1,12 @@
+{
+  "name": "jrmusic-api",
+  "version": "1.0.0",
+  "description": "JRmusic 后端 API 代理服务",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "netease-cloud-music-api": "^4.16.0"
+  }
+}
